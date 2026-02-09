@@ -13,7 +13,7 @@ const rooms = [
     image: roomMatrimonial,
     alt: 'Habitación matrimonial',
     description:
-      'Nuestras habitaciones matrimoniales ofrecen un ambiente cálido y acogedor, con una cama confortable, decoración clásica y detalles que invitan al descanso. Cada espacio está equipado con baño privado, iluminación suave, clóset y mesa de noche, creando una estadía práctica y relajante.',
+      'Nuestras habitaciones matrimoniales ofrecen un ambiente cálido y acogedor, con una cama confortable, decoración clásica y detalles que invitan al descanso. Cada espacio está equipado con baño privado, iluminación suave, clóset, mesa de noche y escritorio creando una estadía práctica y relajante.',
     features: [
       { icon: Bed, label: 'Cama confortable' },
       { icon: Lamp, label: 'Iluminación suave' },
@@ -28,7 +28,7 @@ const rooms = [
     image: roomSencilla,
     alt: 'Habitación sencilla',
     description:
-      'La habitación sencilla es perfecta para viajeros individuales que buscan comodidad y tranquilidad. Con una cama cómoda, baño privado, iluminación cálida y un diseño acogedor, es el espacio ideal para descansar después de explorar Málaga, Santander.',
+      'La habitación sencilla es perfecta para viajeros individuales que buscan comodidad y tranquilidad. Con una cama cómoda, baño privado, iluminación cálida y un diseño acogedor, es el espacio ideal para descansar después de explorar la región.',
     features: [
       { icon: Bed, label: 'Cama cómoda' },
       { icon: Lamp, label: 'Iluminación cálida' },
@@ -42,7 +42,7 @@ const rooms = [
     image: roomMultiple,
     alt: 'Acomodación múltiple',
     description:
-      'Nuestra acomodación múltiple cuenta con dos camas individuales, ideal para amigos, familias o compañeros de viaje. Un espacio amplio y cómodo con decoración regional, baño privado y todo lo necesario para una estadía agradable en el corazón de Santander.',
+      'Nuestra acomodación múltiple ofrece diferentes modalidades: Dos camas individuales, una cama individual, y una cama sencilla, tres camas sencillas, ideal para amigos, familias o compañeros de viaje. Un espacio amplio y cómodo con decoración regional, baño privado y todo lo necesario para una estadía agradable en el corazón de Santander.',
     features: [
       { icon: Bed, label: 'Dos camas individuales' },
       { icon: Lamp, label: 'Decoración regional' },
