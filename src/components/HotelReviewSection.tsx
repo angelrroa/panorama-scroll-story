@@ -48,7 +48,7 @@ export function HotelReviewSection() {
             Rodeado de paisajes únicos, ofrece habitaciones cómodas, modernas y perfectas para descansar 
             después de explorar la región. Su atención cálida y personalizada asegura una experiencia 
             inolvidable, mientras que su ubicación estratégica permite acceder fácilmente a los principales 
-            atractivos naturales y culturales del municipio. Una opción perfecta para viajeros que buscan 
+            atractivos naturales y culturales de la región. Una opción perfecta para viajeros que buscan 
             confort, vistas espectaculares y un ambiente relajante en el corazón de Santander.
           </p>
 
