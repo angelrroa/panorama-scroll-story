@@ -4,8 +4,8 @@ import { cn } from '@/lib/utils';
 
 const contactInfo = [
   { icon: Phone, label: 'Teléfono', value: '+57 3133387951', href: 'tel:+573133387951' },
-  { icon: Mail, label: 'Correo', value: 'panoramainnHotel@gmail.com', href: 'mailto:panoramainnHotel@gmail.com' },
-  { icon: Globe, label: 'Web', value: 'hotelpanoramainn.com.co', href: 'https://hotelpanoramainn.com.co/' },
+  { icon: Mail, label: 'Correo', value: 'panoramainnhotel@gmail.com', href: 'mailto:panoramainnHotel@gmail.com' },
+  { icon: Globe, label: 'Web', value: 'hotelpanoramainn.com', href: 'https://hotelpanoramainn.com.co/' },
   { icon: Instagram, label: 'Instagram', value: '@hotelpanoramainn', href: 'https://instagram.com/hotelpanoramainn' },
 ];
 
